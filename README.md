@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @worldtreeboy
-- 👀 I’m interested in C++ and ONLY C++ 
 - 🌱 I’m currently learning C++ 
 
 <!---
